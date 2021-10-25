@@ -1010,7 +1010,19 @@ class PlayState extends MusicBeatState
 				
 				case 'payasolocura':
 					startDialogue(dialogueJson);
-
+					
+				case 'marisoyfan':
+					startDialogue(dialogueJson);
+					
+				case 'juand-vuelve-porfavor':
+					startDialogue(dialogueJson);
+					
+				case 'pbtadmin-v2':
+					startDialogue(dialogueJson);
+					
+				case 'elgordas':
+					startDialogue(dialogueJson);
+					
 				default:
 					startCountdown();
 			}

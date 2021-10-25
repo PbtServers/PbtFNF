@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No Creas que no te he Visto"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BEEP?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " [PbtAdmin-v2] *Error, Falta Segundo Argumento"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Es verdad, Hemos Visto."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "PbtAdmin-v2 (el Anticheat de PbtServers) te ha Visto Utilizando Hacks"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Admitelo, Payaso"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BOP?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tu Novia ya esta en la Carcel de Payasos y tu seras el Siguiente..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "beeeeeep? :'("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bap bop beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Una Batalla de Rap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bap bop bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Vale."
+		}
+	]
+}

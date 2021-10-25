@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mari sos vos?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BoYfRiEnD?! de Friday Night Funkin'??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Que Haces en MundoSurvival?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bop beep Gei bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Comela Boyfriend, como que soy Gay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Te voy a Partir la Madre, veni"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": ":'("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ahora no Tengo mi Espada, Pero si la Tuviera..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Baap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Batalla de Rap?!? Eso Existe en PbtServers?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Increible, Pbt mete Nuevas Cosas cada Dia y ni me Avisa..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeeeeeep :')"
+		}
+	]
+}

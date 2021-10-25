@@ -2,87 +2,87 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "juand",
+			"portrait": "oftome",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Hola Puta, volvi"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "beep bo bop"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "juand",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Tengo tu IP, Boyfriend"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "angry",
-			"expression": "shocked",
-			"text": "BAAP"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "juand",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Si, ire a tu Casa"
+			"text": "Te Crees Payaso, que sos, JuanD?"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "Calla, Payaso"
+			"text": "beeep bap"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "juand",
+			"portrait": "oftome",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Espera, Podes Hablar..?"
+			"text": "Boyfriend, di KID AMONGUS al Reves"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "sugnoma beeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Te Saltaste la Parte de KID, sos Boludo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*Oftome, esto es un Mod Family Friendly, Callate, Porfavor."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "excited",
-			"text": "no"
+			"text": "beep bap bap bop"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "juand",
+			"portrait": "oftome",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "ya me Canse, ire a Joder a otro Pivito como voz >:v"
+			"text": "Igualmente te voy a Romper las Bolas."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "shocked",
-			"text": "beeeeeep? :'("
+			"text": ":'("
 		},
 		{
 			"speed": 0.05,
-			"portrait": "juand",
+			"portrait": "oftome",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Si :v Muere Puta"
+			"text": "Si, Preparate"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "No, tu >:)"
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BAP?!?"
 		}
 	]
 }
