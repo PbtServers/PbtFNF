@@ -1,0 +1,24 @@
+{
+	"position": [
+		120,
+		60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Oftome_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "OFTOME0",
+			"loop_name": "OFTOME LOOP"
+		}
+	]
+}

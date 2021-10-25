@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "juand",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hola Puta, volvi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bo bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "juand",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tengo tu IP, Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BAAP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "juand",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si, ire a tu Casa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Calla, Payaso"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "juand",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Espera, Podes Hablar..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "juand",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ya me Canse, ire a Joder a otro Pivito como voz >:v"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beeeeeep? :'("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "juand",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Si :v Muere Puta"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "No, tu >:)"
+		}
+	]
+}

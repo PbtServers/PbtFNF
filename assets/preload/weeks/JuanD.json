@@ -1,0 +1,30 @@
+{
+	"storyName": "El Payaso se ha Cansado del Sotano",
+	"hideFreeplay": false,
+	"weekBackground": "JuanD",
+	"weekBefore": "JuanD",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"juandnormal",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"payasolocura",
+			"juandnormal",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "JuanD"
+}

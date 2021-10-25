@@ -1,0 +1,24 @@
+{
+	"position": [
+		100,
+		90
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "JuanD_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "JUAND0",
+			"loop_name": "JUAND LOOP"
+		}
+	]
+}

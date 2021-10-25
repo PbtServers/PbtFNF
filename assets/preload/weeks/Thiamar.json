@@ -1,0 +1,30 @@
+{
+	"storyName": "POV: ElGordas se Enfada Contigo",
+	"hideFreeplay": false,
+	"weekBackground": "Thiamar",
+	"weekBefore": "Thiamar",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"thiamarnormal",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"elgordas",
+			"thiamarnormal",
+			[
+				235,
+				235,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Thiamar"
+}

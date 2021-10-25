@@ -463,11 +463,11 @@ class TitleState extends MusicBeatState
 			switch (sickBeats)
 			{
 				case 1:
-					createCoolText(['Psych Engine by'], 45);
+					createCoolText(['PbtServers v2.0'], 45);
 				// credTextShit.visible = true;
 				case 3:
-					addMoreText('Shadow Mario', 45);
-					addMoreText('RiverOaken', 45);
+					addMoreText('Ya se Puede Jugar!', 45);
+					addMoreText('Muy Epico!', 45);
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
 				case 4:
@@ -476,9 +476,9 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = 'In association \nwith';
 				// credTextShit.screenCenter();
 				case 5:
-					createCoolText(['This is a mod to'], -60);
+					createCoolText(['Un mod Para'], -60);
 				case 7:
-					addMoreText('This game right below lol', -60);
+					addMoreText('Friday Night Funkin', -60);
 					logoSpr.visible = true;
 				// credTextShit.text += '\nNewgrounds';
 				case 8:
@@ -500,13 +500,13 @@ class TitleState extends MusicBeatState
 				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('Friday');
+					addMoreText('PbtServers');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Night');
+					addMoreText('en');
 				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
+					addMoreText('Friday Night Funkin'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();

@@ -1,0 +1,39 @@
+{
+	"storyName": "El Simp #1 de JuanD",
+	"hideFreeplay": false,
+	"weekBackground": "Oftome",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"oftomenormal",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"marisoyfan",
+			"icon-oftome101",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"juand-vuelve-porfavor",
+			"icon-oftome101",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Oftome"
+}
