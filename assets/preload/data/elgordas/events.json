@@ -2,7 +2,7 @@
 	"song": {
 		"speed": 3.1,
 		"stage": "schoolEvil",
-		"player1": "bfof",
+		"player1": "bfof2",
 		"player2": "thiamarnormal",
 		"player3": "gf-pixel",
 		"notes": [
@@ -1652,8 +1652,42 @@
 						"Camera Follow Pos",
 						"600",
 						"500"
+					],
+					[
+						88.2352941176471,
+						-1,
+						"Add Camera Zoom",
+						"",
+						"-0.01"
 					]
 				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
