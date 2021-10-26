@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "blaster",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blaster",
+	"position": [
+		60,
+		-80
+	],
+	"healthicon": "icon-pbtnormal",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		60,
+		85
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
