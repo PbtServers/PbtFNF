@@ -2,87 +2,87 @@
 	"dialogue": [
 		{
 			"speed": 0.05,
-			"portrait": "juand",
+			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "Hola Puta, volvi"
+			"text": "bep bop bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thiamar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Asi que venciste a Pbt..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "ez"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thiamar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Por aqui tu no pasas"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "beep bo bop"
+			"text": "bap?"
 		},
 		{
 			"speed": 0.05,
-			"portrait": "juand",
+			"portrait": "thiamar",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Tengo tu IP, Boyfriend"
+			"text": "Estas en la central de policia de MundoDynamic."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "thiamar",
 			"boxState": "angry",
-			"expression": "shocked",
-			"text": "BAAP"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "juand",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "Si, ire a tu Casa"
+			"text": "BAJO MIS NORMAS."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "Calla, Payaso"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "juand",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Espera, Podes Hablar..?"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "excited",
-			"text": "no"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "juand",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "ya me Canse, ire a Joder a otro Pivito como voz >:v"
-		},
-		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "shocked",
-			"text": "beeeeeep? :'("
-		},
-		{
-			"speed": 0.05,
-			"portrait": "juand",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "Si :v Muere Puta"
+			"text": "Pero que decis? payaso."
 		},
 		{
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "pissed",
-			"text": "No, tu >:)"
+			"text": "beep bop bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "thiamar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Acepto, igualmente voy a ganar, soy buenisimo en el fnf, me pase el mod de garcello."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "que pro"
 		}
 	]
 }
