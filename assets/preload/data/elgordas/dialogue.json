@@ -43,18 +43,25 @@
 			"text": "bap?"
 		},
 		{
-			"speed": 0.05,
+			"speed": 0.04,
 			"portrait": "thiamar",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": "Estas en la central de policia de MundoDynamic."
+			"text": "Estas en la central de policia de MundoDynamic.."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "thiamar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..Es Verdad, MundoDynamic ya no Existe.. Esto es MundoSurvival.. *se pone a llorar*"
 		},
 		{
 			"speed": 0.05,
 			"portrait": "thiamar",
 			"boxState": "angry",
 			"expression": "talk",
-			"text": "BAJO MIS NORMAS."
+			"text": "Igualmente, ESTAS BAJO MIS NORMAS."
 		},
 		{
 			"speed": 0.05,

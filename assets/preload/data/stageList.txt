@@ -3,6 +3,7 @@ halloween
 philly
 limo
 mall
+mall2
 mallEvil
 school
 schoolEvil

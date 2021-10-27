@@ -1020,6 +1020,9 @@ class PlayState extends MusicBeatState
 				case 'pbtadmin-v2':
 					startDialogue(dialogueJson);
 					
+				case 'thanatophobia':
+					startDialogue(dialogueJson);
+					
 				case 'elgordas':
 					startDialogue(dialogueJson);
 					

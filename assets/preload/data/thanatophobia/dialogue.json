@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "pbt",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Ahora ya si que me has Cansado... PbtAdmin, Activa la Defensa Especial!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BEEP?"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " [PbtAdmin-v2] *Cargando Efectos: Voz Grave de Sans, Gaster Blasters Dificiles..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " [PbtAdmin-v2] *Todo Listo!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh no, dios, oh no, porfavor, ayuda"
+		}
+	]
+}
