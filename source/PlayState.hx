@@ -2269,6 +2269,13 @@ class PlayState extends MusicBeatState
 							dad.playAnim(animToPlay + altAnim, true);
 							dad.holdTimer = 0;
 						}
+						
+						if (dad.curCharacter == "blaster"){
+							health -= 0.05;
+							if (health <= 0.903){
+								health += 0.006;
+							}
+						}
 					}
 
 					if (SONG.needsVoices)

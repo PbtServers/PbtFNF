@@ -888,6 +888,13 @@
 						"Screen Shake",
 						"3, 0.01",
 						""
+					],
+					[
+						114700,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
 					]
 				],
 				"bpm": 0,
@@ -907,15 +914,7 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [
-					[
-						116900,
-						-1,
-						"Change Character",
-						"1",
-						"pbtnormal"
-					]
-				],
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
