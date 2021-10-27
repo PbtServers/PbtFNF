@@ -171,79 +171,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						21000,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						21200,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					],
+					[
+						22000,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -306,7 +256,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						32400,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						32600,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					],
+					[
+						33400,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -369,7 +341,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						44300,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						44500,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -378,7 +365,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						45300,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -405,7 +400,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						50700,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						50900,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -414,7 +424,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						51600,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -450,7 +468,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						57800,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						58000,
+						-1,
+						"Screen Shake",
+						"6, 0.01",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -486,7 +519,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						64300,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -594,7 +635,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						83400,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						83600,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					],
+					[
+						84400,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -657,7 +720,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						95200,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						95400,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -666,7 +744,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						96200,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -729,7 +815,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						107400,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						107600,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -738,7 +839,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						110300,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -765,7 +874,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						113800,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						114000,
+						-1,
+						"Screen Shake",
+						"3, 0.01",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -783,7 +907,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						116900,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -864,7 +996,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						131400,
+						-1,
+						"Screen Shake",
+						"3, 0.01",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -873,7 +1013,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						133000,
+						-1,
+						"Screen Shake",
+						"",
+						"4, 0.01"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -900,7 +1048,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						137800,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						138000,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					],
+					[
+						138800,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -945,7 +1115,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						145800,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						146000,
+						-1,
+						"Screen Shake",
+						"1, 0.02",
+						""
+					],
+					[
+						146700,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -972,7 +1164,22 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						150500,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						150700,
+						-1,
+						"Screen Shake",
+						"7, 0.03",
+						""
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -981,7 +1188,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						152300,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -1116,7 +1331,29 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						176000,
+						-1,
+						"Change Character",
+						"1",
+						"blaster"
+					],
+					[
+						176200,
+						-1,
+						"Screen Shake",
+						"1, 0.01",
+						""
+					],
+					[
+						177000,
+						-1,
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -20018,6 +20255,6 @@
 		"bpm": 150,
 		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "thanatophobia"
+		"song": "pbtadmin-v2"
 	}
 }
