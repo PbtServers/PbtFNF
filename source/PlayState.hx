@@ -1026,6 +1026,9 @@ class PlayState extends MusicBeatState
 				case 'elgordas':
 					startDialogue(dialogueJson);
 					
+				case 'systemctl-stop':
+					startDialogue(dialogueJson);
+					
 				default:
 					startCountdown();
 			}
