@@ -102,6 +102,44 @@ class Note extends FlxSprite
 						}
 					}
 					hitCausesMiss = true;
+				case 'Death Note':
+					ignoreNote = mustPress;
+					reloadNote('DEATH');
+					noteSplashTexture = 'DEATHnoteSplashes';
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
+					if(isSustainNote) {
+						missHealth = 142.69;
+						if (missHealth != 0.00){
+							missHealth += 142.69;
+						}
+					} else {
+						missHealth = 142.69;
+						if (missHealth != 0.00){
+							missHealth += 142.69;
+						}
+					}
+					hitCausesMiss = true;
+				case 'Pbt Note':
+					ignoreNote = mustPress;
+					reloadNote('PBT');
+					noteSplashTexture = 'PBTnoteSplashes';
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
+					if(isSustainNote) {
+						missHealth = 0.1;
+						if (missHealth != 0.00){
+							missHealth += 0.01;
+						}
+					} else {
+						missHealth = 0.1;
+						if (missHealth != 0.00){
+							missHealth += 0.01;
+						}
+					}
+					hitCausesMiss = true;
 				case 'No Animation':
 					noAnimation = true;
 			}

@@ -3449,6 +3449,54 @@ class PlayState extends MusicBeatState
 							boyfriend.playAnim('hurt', true);
 							boyfriend.specialAnim = true;
 						}
+					case 'Death Note': //Hurt note
+						if(boyfriend.animation.getByName('hurt') != null) {
+							boyfriend.playAnim('hurt', true);
+							boyfriend.specialAnim = true;
+						}
+					case 'Pbt Note': //Hurt note
+						if(boyfriend.animation.getByName('hurt') != null) {
+							boyfriend.playAnim('hurt', true);
+							boyfriend.specialAnim = true;
+						}
+						
+			FlxTween.tween(FlxG.camera, {angle: -30}, 0.15, {ease: FlxEase.quadInOut});
+			
+			new FlxTimer().start(0.025, function(tmr:FlxTimer)	
+			{
+				boyfriend.playAnim('hit', false);
+			});
+			
+			new FlxTimer().start(0.15, function(tmr:FlxTimer)	
+			{
+				FlxTween.tween(FlxG.camera, {angle: 180}, 0.15, {ease: FlxEase.quadInOut});
+			});
+			
+			new FlxTimer().start(0.30, function(tmr:FlxTimer)	
+			{
+				boyfriend.playAnim('idle');
+				dad.playAnim('idle');
+			});
+			
+			
+			FlxTween.tween(FlxG.camera, {angle: 210}, 2.15, {ease: FlxEase.quadInOut});
+
+			new FlxTimer().start(2.025, function(tmr:FlxTimer)	
+			{
+				boyfriend.playAnim('hit', false);
+			});
+
+			new FlxTimer().start(2.15, function(tmr:FlxTimer)	
+			{
+				FlxTween.tween(FlxG.camera, {angle: 0}, 2.15, {ease: FlxEase.quadInOut});
+			});
+
+			new FlxTimer().start(2.30, function(tmr:FlxTimer)	
+			{
+				boyfriend.playAnim('idle');
+				dad.playAnim('idle');
+			});
+			
 				}
 				
 				note.wasGoodHit = true;
