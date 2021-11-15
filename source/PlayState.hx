@@ -1029,6 +1029,9 @@ class PlayState extends MusicBeatState
 				case 'systemctl-stop':
 					startDialogue(dialogueJson);
 					
+				case 'pid1406':
+					startDialogue(dialogueJson);
+					
 				default:
 					startCountdown();
 			}

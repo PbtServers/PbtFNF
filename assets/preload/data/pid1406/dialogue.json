@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eso ha sido Demasiado para mi..."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bap"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pero Igualmente me Apetece otra Cancion, tu que Opinas?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "no te Estabas Muriendo? Necesito mi EXP =)"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah si, es Verdad... Bueno, Igualmente me da Tiempo."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " [PbtAdmin-v2] *Vida Restante: 0.001%"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep! =)"
+		}
+	]
+}

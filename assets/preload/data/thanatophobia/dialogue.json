@@ -3,6 +3,20 @@
 		{
 			"speed": 0.04,
 			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eso ha Dolido, por que Tienes un Cuchillo?!?"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "-_-"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "pbt",
 			"boxState": "angry",
 			"expression": "talk",
 			"text": "Ahora ya si que me has Cansado... PbtAdmin, Activa la Defensa Especial!"

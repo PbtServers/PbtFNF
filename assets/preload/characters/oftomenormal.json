@@ -37,6 +37,17 @@
 			"loop": false,
 			"offsets": [
 				0,
+				-30
+			],
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
 				27
 			],
 			"fps": 24,

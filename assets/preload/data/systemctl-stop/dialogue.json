@@ -3,37 +3,44 @@
 		{
 			"speed": 0.04,
 			"portrait": "pbt",
-			"boxState": "angry",
+			"boxState": "talk",
 			"expression": "talk",
-			"text": "Ahora ya si que me has Cansado... PbtAdmin, Activa la Defensa Especial!"
+			"text": "[PbtAdmin-v2] *Error! el Usuario Pbtgamer no Puede Morir."
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "angry",
-			"expression": "shocked",
-			"text": "BEEP?"
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "[PbtAdmin-v2] *Activando Soporte de Vida Auxiliar"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " [PbtAdmin-v2] *Apagando Servicios no Necesarios, via 'systemctl'"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pbt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " [PbtAdmin-v2] *Reviviendo..."
 		},
 		{
 			"speed": 0.02,
 			"portrait": "pbt",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": " [PbtAdmin-v2] *Cargando Efectos: Voz Grave de Sans, Gaster Blasters Dificiles..."
+			"text": "He Vuelto, Preparate, no vas a Ganar."
 		},
 		{
-			"speed": 0.05,
-			"portrait": "pbt",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": " [PbtAdmin-v2] *Todo Listo!"
-		},
-		{
-			"speed": 0.04,
+			"speed": 0.03,
 			"portrait": "bf",
 			"boxState": "normal",
 			"expression": "shocked",
-			"text": "oh no, dios, oh no, porfavor, ayuda"
+			"text": "BAP?!?"
 		}
 	]
 }

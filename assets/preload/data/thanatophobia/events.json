@@ -1,9 +1,9 @@
 {
 	"song": {
-		"speed": 2.3,
+		"speed": 2.7,
 		"stage": "mall",
 		"player1": "bf",
-		"player2": "pbtnormal",
+		"player2": "pbtdano",
 		"player3": "gf-christmas",
 		"notes": [
 			{
@@ -23,7 +23,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					],
 					[
 						500,
@@ -142,7 +142,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -191,7 +191,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -276,7 +276,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -371,7 +371,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -430,7 +430,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -501,33 +501,33 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						64300,
+						61000,
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -655,7 +655,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -750,7 +750,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -845,7 +845,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -913,7 +913,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -1068,7 +1068,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -1135,7 +1135,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -1194,7 +1194,7 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -1351,9 +1351,81 @@
 						-1,
 						"Change Character",
 						"1",
-						"pbtnormal"
+						"pbtdano"
 					]
 				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
@@ -20255,6 +20327,6 @@
 		"bpm": 150,
 		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "pbtadmin-v2"
+		"song": "thanatophobia"
 	}
 }
