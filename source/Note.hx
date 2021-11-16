@@ -131,12 +131,12 @@ class Note extends FlxSprite
 					if(isSustainNote) {
 						missHealth = 0.1;
 						if (missHealth != 0.00){
-							missHealth += 0.01;
+							missHealth += 0.005;
 						}
 					} else {
 						missHealth = 0.1;
 						if (missHealth != 0.00){
-							missHealth += 0.01;
+							missHealth += 0.005;
 						}
 					}
 					hitCausesMiss = true;

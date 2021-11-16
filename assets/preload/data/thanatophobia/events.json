@@ -2,7 +2,7 @@
 	"song": {
 		"speed": 2.7,
 		"stage": "mall",
-		"player1": "bf",
+		"player1": "bfchara",
 		"player2": "pbtdano",
 		"player3": "gf-christmas",
 		"notes": [
@@ -482,6 +482,13 @@
 						"Screen Shake",
 						"6, 0.01",
 						""
+					],
+					[
+						58900,
+						-1,
+						"Change Character",
+						"1",
+						"pbtdano"
 					]
 				],
 				"bpm": 0,
@@ -501,15 +508,7 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [
-					[
-						61000,
-						-1,
-						"Change Character",
-						"1",
-						"pbtdano"
-					]
-				],
+				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false
