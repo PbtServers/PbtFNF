@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jumpscarefeddy.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="feddy up instance 10000" x="5" y="5" width="800" height="1156"/>
+	<SubTexture name="feddy up instance 10001" x="810" y="5" width="800" height="1156"/>
+	<SubTexture name="feddy up instance 10002" x="1615" y="5" width="800" height="1048" frameX="0" frameY="-83" frameWidth="800" frameHeight="1156"/>
+	<SubTexture name="feddy up instance 10003" x="2420" y="5" width="800" height="1050" frameX="0" frameY="-81" frameWidth="800" frameHeight="1156"/>
+	<SubTexture name="feddy up instance 10004" x="3225" y="5" width="800" height="1050" frameX="0" frameY="-81" frameWidth="800" frameHeight="1156"/>
+	<SubTexture name="feddy up instance 10005" x="5" y="1166" width="800" height="1050" frameX="0" frameY="-81" frameWidth="800" frameHeight="1156"/>
+</TextureAtlas>

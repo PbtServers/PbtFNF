@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fucksee left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fucksee down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fucksee up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fucksee right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fucksee insta",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fucksee",
+	"position": [
+		-130,
+		-220
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-190,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

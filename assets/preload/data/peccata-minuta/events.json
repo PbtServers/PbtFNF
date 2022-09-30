@@ -1,0 +1,366 @@
+{
+	"song": {
+		"events": [
+			[
+				2100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				2250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				4650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				6900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				7050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				9450,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.3"
+					]
+				]
+			],
+			[
+				16400,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"juandnormal"
+					]
+				]
+			],
+			[
+				30652,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"oftomenormal"
+					]
+				]
+			],
+			[
+				28650,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				28725,
+				[
+					[
+						"Add Camera Zoom",
+						"0.017 ",
+						" 0.6"
+					]
+				]
+			],
+			[
+				28815,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				28875,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				30900,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"lozeer55"
+					]
+				]
+			],
+			[
+				31200,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				39450,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blaster"
+					]
+				]
+			],
+			[
+				41625,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"ormcexe"
+					]
+				]
+			],
+			[
+				48600,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53700,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blaster"
+					]
+				]
+			],
+			[
+				57450,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"thiamarnormal"
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blaster"
+					]
+				]
+			],
+			[
+				72900,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"arcojuegos"
+					]
+				]
+			],
+			[
+				82200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blaster"
+					]
+				]
+			],
+			[
+				84675,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"thelegolaslava"
+					]
+				]
+			],
+			[
+				96600,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blaster"
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"pbtulb"
+					]
+				]
+			],
+			[
+				108600,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blaster"
+					]
+				]
+			],
+			[
+				109275,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"dad"
+					]
+				]
+			],
+			[
+				109425,
+				[
+					[
+						"Play Animation",
+						"dodge",
+						"bf"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Flash White",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111075,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"pbtnightmare"
+					]
+				]
+			]
+		]
+	}
+}

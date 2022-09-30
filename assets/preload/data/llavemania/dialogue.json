@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Etien, DEJA MI PC"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bepp ba bop bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Etien sos Demasiado Pesado"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop, problemas familiares?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Sabia que Podias Hablar!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "... Boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": ">:)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Por que me Miras asi?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bap?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oftome",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Otra Batalla de Rap? Ok."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": ">>:))"
+		}
+	]
+}

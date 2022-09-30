@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "feddy idle"
+		},
+		{
+			"offsets": [
+				-30,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "feddy left"
+		},
+		{
+			"offsets": [
+				-71,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "feddy down"
+		},
+		{
+			"offsets": [
+				-123,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "feddy up"
+		},
+		{
+			"offsets": [
+				-88,
+				-191
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "feddy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/feddy",
+	"position": [
+		-210,
+		-470
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-190,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

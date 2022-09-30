@@ -1,0 +1,25 @@
+local height = 0
+local spriteName = "evilBG" -- replace limoSunset with the name of your sprite
+
+function onCreate()
+	makeLuaSprite("bg1", spriteName, -1500, -700)
+	height = getProperty("bg1.height")
+	
+	makeLuaSprite("bg2", spriteName, -1500, height-700)
+	
+	addLuaSprite("bg1", false)
+	addLuaSprite("bg2", false)
+	
+	doTweenY("bg1Tween", "bg1", -height, 20, "linear")
+	doTweenY("bg2Tween", "bg2", -700, 20, "linear")
+end
+
+function onTweenCompleted(tag)
+	if tag == "bg1Tween" then
+		setProperty("bg1.y", 0)
+		setProperty("bg2.y", height-700)
+		
+		doTweenY("bg1Tween", "bg1", -height, 20, "linear")
+		doTweenY("bg2Tween", "bg2", -700, 20, "linear")
+	end
+end

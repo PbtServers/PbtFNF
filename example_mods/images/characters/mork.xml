@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mork.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mark down instance 10000" x="6" y="6" width="658" height="356" frameX="0" frameY="-11" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10001" x="666" y="6" width="658" height="356" frameX="0" frameY="-11" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10002" x="1326" y="6" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10003" x="1982" y="6" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10004" x="2638" y="6" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10005" x="3294" y="6" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10006" x="6" y="364" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10007" x="662" y="364" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10008" x="1318" y="364" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark down instance 10009" x="1974" y="364" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
+	<SubTexture name="mark idle instance 10000" x="2630" y="364" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10001" x="3279" y="364" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10002" x="6" y="741" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10003" x="655" y="741" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10004" x="1304" y="741" width="644" height="379" frameX="-1" frameY="-5" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10005" x="1950" y="741" width="644" height="379" frameX="-1" frameY="-5" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10006" x="2596" y="741" width="640" height="383" frameX="-1" frameY="-2" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10007" x="3238" y="741" width="640" height="385" frameX="-1" frameY="0" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10008" x="6" y="1128" width="640" height="385" frameX="-1" frameY="0" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark idle instance 10009" x="648" y="1128" width="640" height="385" frameX="-1" frameY="0" frameWidth="647" frameHeight="385"/>
+	<SubTexture name="mark left instance 10000" x="1290" y="1128" width="633" height="381" frameX="0" frameY="-4" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10001" x="1925" y="1128" width="633" height="381" frameX="0" frameY="-4" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10002" x="2560" y="1128" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10003" x="3200" y="1128" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10004" x="6" y="1515" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10005" x="646" y="1515" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10006" x="1286" y="1515" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10007" x="1926" y="1515" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10008" x="2566" y="1515" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark left instance 10009" x="3206" y="1515" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>
+	<SubTexture name="mark right instance 10000" x="6" y="1902" width="653" height="402"/>
+	<SubTexture name="mark right instance 10001" x="661" y="1902" width="653" height="402"/>
+	<SubTexture name="mark right instance 10002" x="1316" y="1902" width="647" height="380" frameX="-1" frameY="-5" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10003" x="1965" y="1902" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10004" x="2614" y="1902" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10005" x="3263" y="1902" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10006" x="6" y="2306" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10007" x="655" y="2306" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10008" x="1304" y="2306" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark right instance 10009" x="1953" y="2306" width="647" height="378" frameX="-1" frameY="-7" frameWidth="653" frameHeight="402"/>
+	<SubTexture name="mark up instance 10000" x="2602" y="2306" width="608" height="495" frameX="-19" frameY="0" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10001" x="3212" y="2306" width="608" height="495" frameX="-19" frameY="0" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10002" x="6" y="2803" width="634" height="479" frameX="0" frameY="-11" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10003" x="642" y="2803" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10004" x="1278" y="2803" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10005" x="1914" y="2803" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10006" x="2550" y="2803" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10007" x="3186" y="2803" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10008" x="6" y="3284" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+	<SubTexture name="mark up instance 10009" x="642" y="3284" width="634" height="472" frameX="0" frameY="-18" frameWidth="634" frameHeight="495"/>
+</TextureAtlas>

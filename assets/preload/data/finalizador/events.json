@@ -1,0 +1,1716 @@
+{
+	"song": {
+		"events": [
+			[
+				12800,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				12900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				13100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				13200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				13400,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				13500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				13600,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				13700,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				13800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				13900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				14000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				14100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"BF"
+					]
+				]
+			],
+			[
+				14200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				34100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				34200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				34300,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				34400,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				34500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				34700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				34900,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				35300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				35400,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				35500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				35600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				35700,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				35800,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"BF"
+					]
+				]
+			],
+			[
+				35900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				42400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				42500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				42700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				42800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				43000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				43100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				43200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				43300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				43400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				56800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				57900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				58100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				58200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				58300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				58600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				58700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				58900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				59000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				59400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				60200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				60300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				60900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				61900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				62100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				62200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				62600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				62800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				66800,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				67000,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				67300,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				67400,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				67600,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				67900,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				68200,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				68500,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				68600,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				71200,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				71400,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				71600,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				71700,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				71800,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				72200,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				72400,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				72800,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				73000,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				73100,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				75600,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				75800,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				76100,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				76200,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				76400,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				76600,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				77000,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				77200,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				77500,
+				[
+					[
+						"Screen Shake",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				82100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				82300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				82600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				82900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				83100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				83300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				83400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				83600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				83800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				83900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				84600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				84700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				85900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				118600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				118900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				119000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				119200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				119400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				119600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				119900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				120100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				120400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				120600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				120700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				120800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				127300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				127600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				128200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				128500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				129500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				129700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				130100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				130200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				130300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				130700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				130900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				134800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135300,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				135900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			],
+			[
+				136100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

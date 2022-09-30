@@ -1,0 +1,57 @@
+{
+	"storyName": "El Admin se ha Quitado el Vanish!",
+	"hideFreeplay": false,
+	"weekBackground": "Pbt",
+	"weekBefore": "Pbt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"pbtnormal",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"kernelpanic",
+			"bf",
+			[
+				255,
+				0,
+				40
+			]
+		],
+		[
+			"clipazo",
+			"mark",
+			[
+				155,
+				40,
+				20
+			]
+		],
+		[
+			"identidad-perdida",
+			"kokete",
+			[
+				155,
+				40,
+				20
+			]
+		],
+		[
+			"peccata-minuta",
+			"pbtnightmare",
+			[
+				155,
+				40,
+				20
+			]
+		]
+	],
+	"weekName": "Pbt"
+}

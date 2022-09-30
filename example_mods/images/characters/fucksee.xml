@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fucksee.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fucksee down instance 10000" x="5" y="5" width="744" height="503" frameX="0" frameY="-58" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10001" x="754" y="5" width="744" height="503" frameX="0" frameY="-58" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10002" x="1503" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10003" x="2204" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10004" x="2905" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10005" x="3606" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10006" x="4307" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10007" x="5008" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10008" x="5709" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee down instance 10009" x="6410" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
+	<SubTexture name="fucksee instance 10000" x="7111" y="5" width="744" height="506" frameX="0" frameY="-60" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10001" x="5" y="555" width="744" height="506" frameX="0" frameY="-60" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10002" x="754" y="555" width="711" height="523" frameX="-19" frameY="-44" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10003" x="1470" y="555" width="711" height="523" frameX="-19" frameY="-44" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10004" x="2186" y="555" width="696" height="546" frameX="-27" frameY="-26" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10005" x="2887" y="555" width="696" height="546" frameX="-27" frameY="-26" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10006" x="3588" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10007" x="4267" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10008" x="4946" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee instance 10009" x="5625" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
+	<SubTexture name="fucksee left instance 10000" x="6304" y="555" width="674" height="567" frameX="0" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10001" x="6983" y="555" width="674" height="567" frameX="0" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10002" x="5" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10003" x="685" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10004" x="1365" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10005" x="2045" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10006" x="2725" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10007" x="3405" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10008" x="4085" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee left instance 10009" x="4765" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
+	<SubTexture name="fucksee right instance 10000" x="5445" y="1138" width="683" height="564" frameX="-29" frameY="0" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10001" x="6133" y="1138" width="683" height="564" frameX="-29" frameY="0" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10002" x="6821" y="1138" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10003" x="5" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10004" x="705" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10005" x="1405" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10006" x="2105" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10007" x="2805" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10008" x="3505" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee right instance 10009" x="4205" y="1710" width="695" height="551" frameX="0" frameY="-12" frameWidth="712" frameHeight="564"/>
+	<SubTexture name="fucksee up instance 10000" x="4905" y="1710" width="699" height="612" frameX="-3" frameY="0" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10001" x="5609" y="1710" width="699" height="612" frameX="-3" frameY="0" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10002" x="6313" y="1710" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10003" x="7013" y="1710" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10004" x="5" y="2327" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10005" x="705" y="2327" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10006" x="1405" y="2327" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10007" x="2105" y="2327" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10008" x="2805" y="2327" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+	<SubTexture name="fucksee up instance 10009" x="3505" y="2327" width="695" height="552" frameX="0" frameY="-50" frameWidth="702" frameHeight="612"/>
+</TextureAtlas>
