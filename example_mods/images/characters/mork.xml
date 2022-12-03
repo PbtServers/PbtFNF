@@ -13,15 +13,6 @@
 	<SubTexture name="mark down instance 10008" x="1318" y="364" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
 	<SubTexture name="mark down instance 10009" x="1974" y="364" width="654" height="351" frameX="0" frameY="0" frameWidth="658" frameHeight="367"/>
 	<SubTexture name="mark idle instance 10000" x="2630" y="364" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10001" x="3279" y="364" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10002" x="6" y="741" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10003" x="655" y="741" width="647" height="375" frameX="0" frameY="-9" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10004" x="1304" y="741" width="644" height="379" frameX="-1" frameY="-5" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10005" x="1950" y="741" width="644" height="379" frameX="-1" frameY="-5" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10006" x="2596" y="741" width="640" height="383" frameX="-1" frameY="-2" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10007" x="3238" y="741" width="640" height="385" frameX="-1" frameY="0" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10008" x="6" y="1128" width="640" height="385" frameX="-1" frameY="0" frameWidth="647" frameHeight="385"/>
-	<SubTexture name="mark idle instance 10009" x="648" y="1128" width="640" height="385" frameX="-1" frameY="0" frameWidth="647" frameHeight="385"/>
 	<SubTexture name="mark left instance 10000" x="1290" y="1128" width="633" height="381" frameX="0" frameY="-4" frameWidth="641" frameHeight="385"/>
 	<SubTexture name="mark left instance 10001" x="1925" y="1128" width="633" height="381" frameX="0" frameY="-4" frameWidth="641" frameHeight="385"/>
 	<SubTexture name="mark left instance 10002" x="2560" y="1128" width="638" height="385" frameX="-3" frameY="0" frameWidth="641" frameHeight="385"/>

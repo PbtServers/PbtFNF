@@ -13,15 +13,6 @@
 	<SubTexture name="fucksee down instance 10008" x="5709" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
 	<SubTexture name="fucksee down instance 10009" x="6410" y="5" width="696" height="545" frameX="-29" frameY="0" frameWidth="744" frameHeight="561"/>
 	<SubTexture name="fucksee instance 10000" x="7111" y="5" width="744" height="506" frameX="0" frameY="-60" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10001" x="5" y="555" width="744" height="506" frameX="0" frameY="-60" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10002" x="754" y="555" width="711" height="523" frameX="-19" frameY="-44" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10003" x="1470" y="555" width="711" height="523" frameX="-19" frameY="-44" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10004" x="2186" y="555" width="696" height="546" frameX="-27" frameY="-26" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10005" x="2887" y="555" width="696" height="546" frameX="-27" frameY="-26" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10006" x="3588" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10007" x="4267" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10008" x="4946" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
-	<SubTexture name="fucksee instance 10009" x="5625" y="555" width="674" height="578" frameX="-39" frameY="0" frameWidth="744" frameHeight="578"/>
 	<SubTexture name="fucksee left instance 10000" x="6304" y="555" width="674" height="567" frameX="0" frameY="0" frameWidth="680" frameHeight="567"/>
 	<SubTexture name="fucksee left instance 10001" x="6983" y="555" width="674" height="567" frameX="0" frameY="0" frameWidth="680" frameHeight="567"/>
 	<SubTexture name="fucksee left instance 10002" x="5" y="1138" width="675" height="567" frameX="-5" frameY="0" frameWidth="680" frameHeight="567"/>
