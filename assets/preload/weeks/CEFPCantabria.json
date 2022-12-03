@@ -1,0 +1,39 @@
+{
+	"storyName": "El Admin se ha Quitado el Vanish!",
+	"hideFreeplay": false,
+	"weekBackground": "Pbt",
+	"weekBefore": "Pbt",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"pbtnormal",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"seguridad-aplicada",
+			"juanormal",
+			[
+				255,
+				0,
+				40
+			]
+		],
+		[
+			"noche-de-magic",
+			"jezuhnormal",
+			[
+				255,
+				0,
+				40
+			]
+		]
+	],
+	"weekName": "Pbt"
+}
