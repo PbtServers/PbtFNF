@@ -1,0 +1,5 @@
+Excels para SinExcels
+
+value 1: Timer en Steps
+
+value 2: Mensaje (Dejar en Blanco para Randomizar)
