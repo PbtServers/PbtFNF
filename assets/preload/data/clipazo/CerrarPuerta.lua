@@ -21,21 +21,24 @@ function onEvent(name, value1, value2)
 		
 		playSound('puertafnaf', 0.85);
 
-		makeLuaSprite('spacebar_icon', 'cerrarpuerta_icon', -400, -220);
+		makeLuaSprite('spacebar_icon', 'cerrarpuerta_icon', 600, 0);
 	
-		makeLuaSprite('bonnie', 'bonnie', -300, -300);
+		makeLuaSprite('bonnie', 'bonnie', -100, 320);
 
 		setObjectCamera('spacebar_icon', 'hud');
 	
 		setObjectCamera('bonnie', 'hud');
 
-		scaleLuaSprite('spacebar_icon', 0.50, 0.50); 
+		--scaleLuaSprite('spacebar_icon', 0.50, 0.50);
 
 		addLuaSprite('spacebar_icon', true); 
+		
+		addLuaSprite('bonnie', true);
 
 		canDodge = true;
 
 		runTimer('Died', DodgeTime);
+		runTimer('PuertaCierra', DodgeTime);
 
 	end
 
@@ -48,7 +51,6 @@ function onUpdate()
    Dodged = true;
 
    removeLuaSprite('spacebar_icon')
-   removeLuaSprite('bonnie')
 
    canDodge = false;
 
@@ -65,9 +67,13 @@ function onTimerCompleted(tag, loops, loopsLeft)
    elseif tag == 'Died' and Dodged == true then
 
    Dodged = false;
-
    
-
+   end
+   
+   if tag == 'PuertaCierra' then
+   
+   removeLuaSprite('bonnie')
+   
    end
 
 end
