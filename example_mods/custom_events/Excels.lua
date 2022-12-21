@@ -103,7 +103,7 @@ local function remove_stuffs()
 end
 
 function onEvent(name, value_1, value_2)
-	if name == "Unown" then
+	if name == "Excels" then
 		if selected_text then
 			remove_stuffs()
 		end
