@@ -33,6 +33,15 @@
 				0,
 				40
 			]
+		],
+		[
+			"descarga-fraudulenta",
+			"ormcexe",
+			[
+				255,
+				0,
+				40
+			]
 		]
 	],
 	"weekName": "Pbt"
