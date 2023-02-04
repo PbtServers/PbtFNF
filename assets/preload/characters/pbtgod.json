@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				149,
+				339
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "appear",
+			"indices": [],
+			"name": "Start"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-75,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-39,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				49,
+				254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				75,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pbtgod",
+	"position": [
+		70,
+		160
+	],
+	"healthicon": "PbtGOD",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		77
+	],
+	"camera_position": [
+		-190,
+		40
+	],
+	"sing_duration": 7.1,
+	"scale": 1
+}

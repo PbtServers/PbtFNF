@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				189257.142857143,
+				[
+					[
+						"Change Character",
+						"2",
+						"bf"
+					]
+				]
+			],
+			[
+				223542.857142857,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-christmas"
+					]
+				]
+			],
+			[
+				230914.285714286,
+				[
+					[
+						"Change Character",
+						"1",
+						"pbtgod"
+					]
+				]
+			],
+			[
+				322628.571428572,
+				[
+					[
+						"Change Character",
+						"1",
+						"lozeerexe"
+					]
+				]
+			]
+		]
+	}
+}
