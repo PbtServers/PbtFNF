@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "feddy idle"
+			"fps": 24,
+			"name": "feddy idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				15
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "feddy left"
+			"fps": 24,
+			"name": "feddy left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-30,
 				10
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "feddy down"
+			"fps": 24,
+			"name": "feddy down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-40,
 				60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "feddy up"
+			"fps": 24,
+			"name": "feddy up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-65,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "feddy right"
+			"fps": 24,
+			"name": "feddy right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/VirusPC",
+	"image": "characters/FakeGirl",
 	"position": [
-		-70,
-		-320
+		-210,
+		-470
 	],
-	"healthicon": "VirusPC",
+	"healthicon": "FakeGirl",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,
@@ -74,5 +74,5 @@
 		320
 	],
 	"sing_duration": 6.1,
-	"scale": 0.6
+	"scale": 1
 }

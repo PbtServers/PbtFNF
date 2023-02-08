@@ -2,6 +2,26 @@
 	"song": {
 		"events": [
 			[
+				153600,
+				[
+					[
+						"Change Character",
+						"1",
+						"fakegirl"
+					]
+				]
+			],
+			[
+				164571.428571428,
+				[
+					[
+						"Change Character",
+						"1",
+						"megaviruspc"
+					]
+				]
+			],
+			[
 				189257.142857143,
 				[
 					[
@@ -28,6 +48,16 @@
 						"Change Character",
 						"1",
 						"pbtgod"
+					]
+				]
+			],
+			[
+				231000,
+				[
+					[
+						"Play Animation",
+						"appear",
+						"1"
 					]
 				]
 			],

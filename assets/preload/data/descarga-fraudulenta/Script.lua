@@ -19,7 +19,7 @@ local yy2 = 324;
 
 local ofs = 124;
 
-local followchars = true;
+local followchars = false;
 
 local del = 0;
 
@@ -104,10 +104,6 @@ end
             end
 
         end
-
-    else
-
-        triggerEvent('Camera Follow Pos',324,260)
 
     end
 
