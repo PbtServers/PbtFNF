@@ -1,0 +1,116 @@
+{
+	"song": {
+		"events": [
+			[
+				25384.6153846154,
+				[
+					[
+						"Change Character",
+						"0",
+						"lozeer55"
+					]
+				]
+			],
+			[
+				25500,
+				[
+					[
+						"Change Character",
+						"1",
+						"pbtnormal"
+					]
+				]
+			],
+			[
+				46153.8461538461,
+				[
+					[
+						"Change Character",
+						"0",
+						"juanormal"
+					]
+				]
+			],
+			[
+				46269.2307692308,
+				[
+					[
+						"Change Character",
+						"1",
+						"megaviruspc"
+					]
+				]
+			],
+			[
+				136730.769230769,
+				[
+					[
+						"Change Character",
+						"0",
+						"pbtnormalgp"
+					]
+				]
+			],
+			[
+				136846.153846154,
+				[
+					[
+						"Change Character",
+						"1",
+						"juanormal"
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"Change Character",
+						"0",
+						"lozeer55"
+					]
+				]
+			],
+			[
+				148615.384615385,
+				[
+					[
+						"Change Character",
+						"1",
+						"juanormal"
+					]
+				]
+			],
+			[
+				158769.230769231,
+				[
+					[
+						"Change Character",
+						"0",
+						"juanormal"
+					]
+				]
+			],
+			[
+				158884.615384615,
+				[
+					[
+						"Change Character",
+						"1",
+						"lozeer55"
+					]
+				]
+			],
+			[
+				169846.153846154,
+				[
+					[
+						"Change Character",
+						"0",
+						"pbtnormal"
+					]
+				]
+			]
+		]
+	}
+}

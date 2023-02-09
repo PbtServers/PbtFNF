@@ -62,7 +62,7 @@
 		-70,
 		-320
 	],
-	"healthicon": "VirusPC",
+	"healthicon": "icon-VirusPC",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,

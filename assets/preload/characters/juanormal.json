@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				0
+				-350
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "feddy idle"
-		},
-		{
-			"offsets": [
-				-30,
-				11
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "feddy left"
+			"name": "feddy idle",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				0,
+				-249
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "feddy left",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				-71,
-				10
+				-290
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "feddy down"
+			"fps": 24,
+			"name": "feddy down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-123,
-				-130
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-53,
+				-370
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "feddy up"
+			"fps": 24,
+			"name": "feddy up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-88,
-				-191
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-108,
+				-261
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "feddy right"
+			"fps": 24,
+			"name": "feddy right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
