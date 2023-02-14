@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				15
+				-30,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				-30,
+				-71,
 				10
 			],
 			"loop": false,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-40,
-				60
+				-123,
+				-130
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-65,
-				0
+				-88,
+				-191
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,22 +57,22 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/VirusPC",
+	"image": "characters/MANUCRAFT_NORMAL",
 	"position": [
-		-70,
-		-320
+		-210,
+		-470
 	],
-	"healthicon": "icon-viruspc",
+	"healthicon": "icon-manucraft",
 	"flip_x": false,
 	"healthbar_colors": [
-		161,
-		161,
-		161
+		255,
+		60,
+		85
 	],
 	"camera_position": [
-		100,
-		320
+		-190,
+		40
 	],
 	"sing_duration": 6.1,
-	"scale": 2
+	"scale": 1
 }

@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				47884.6153846154,
+				[
+					[
+						"Change Character",
+						"1",
+						"thiamarnormal"
+					]
+				]
+			],
+			[
+				66442.3076923077,
+				[
+					[
+						"Change Character",
+						"1",
+						"manucraft"
+					]
+				]
+			],
+			[
+				66538.4615384616,
+				[
+					[
+						"Change Character",
+						"2",
+						"thiamarnormal"
+					]
+				]
+			],
+			[
+				139230.769230769,
+				[
+					[
+						"Change Character",
+						"1",
+						"thiamarnormal"
+					]
+				]
+			],
+			[
+				148750,
+				[
+					[
+						"Change Character",
+						"0",
+						"pbtnormalgp"
+					]
+				]
+			]
+		]
+	}
+}

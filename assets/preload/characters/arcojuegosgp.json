@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				600,
+				-730,
 				10
 			],
 			"loop": false,
@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				550,
+				0,
 				-30
 			],
 			"loop": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				540,
+				0,
 				27
 			],
 			"loop": false,
@@ -46,7 +46,7 @@
 		},
 		{
 			"offsets": [
-				450,
+				0,
 				0
 			],
 			"loop": false,
@@ -89,7 +89,7 @@
 		},
 		{
 			"offsets": [
-				540,
+				0,
 				27
 			],
 			"loop": true,
@@ -132,17 +132,17 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/THIAMAR_NORMAL",
+	"image": "characters/ARCOJUEGOS_NORMAL",
 	"position": [
 		-60,
 		0
 	],
-	"healthicon": "icon-thiamarnormal",
+	"healthicon": "icon-arcojuegosnormal",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		60,
-		85
+		195,
+		0,
+		195
 	],
 	"camera_position": [
 		0,

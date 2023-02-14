@@ -13,12 +13,12 @@
 	ArtistName2 = 'Pbt'
 	ArtistName3 = ''
 
-	MusicianName1 = 'Wed. Infidelity ("Untold Loneliness")'
+	MusicianName1 = 'FNF Lullaby ("Pasta Night")'
 	MusicianName2 = 'Pbt (Cover)'
 	MusicianName3 = ''
 
 	CharterName1 = ''
-	CharterName2 = 'Wed. Infidelity'
+	CharterName2 = 'FNF Lullaby'
 	CharterName3 = ''
 
 

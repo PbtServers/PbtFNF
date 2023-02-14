@@ -14,8 +14,8 @@
 	ArtistName3 = ''
 
 	MusicianName1 = ''
-	MusicianName2 = 'Pbt'
-	MusicianName3 = ''
+	MusicianName2 = 'Oftome'
+	MusicianName3 = 'Pbt (Final y Voces)'
 
 	CharterName1 = ''
 	CharterName2 = 'Pbt'
