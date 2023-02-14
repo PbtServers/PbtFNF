@@ -138,7 +138,7 @@
 		0
 	],
 	"healthicon": "icon-thiamarnormal",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		255,
 		60,
